@@ -1,1 +1,3 @@
-# a-simple-presentation
+---
+permalink: /index.html
+---
